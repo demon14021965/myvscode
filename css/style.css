@@ -1,0 +1,26 @@
+header {
+  background-color: rgb(236, 17, 17);
+}
+
+body {
+  font-size: 20px;
+  color: blue;
+}
+
+body div {
+  font-size: 10px;
+}
+.block {
+}
+.block__item {
+}
+.block__ {
+}
+.red {
+  color: red;
+}
+@media (max-width: 767px) {
+  .red {
+    border: 0;
+  }
+}
